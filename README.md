@@ -1,7 +1,7 @@
 # api-products-typescript-mongodb
 
 # API
-API CRUD com relacionamentos de usuários e produtos com Typescript, NodeJs, Express, JWT, Passport & MongoDB 
+API CRUD com relacionamentos de usuários e produtos com Typescript, NodeJs, Express, JWT, Passport, Docker, Docker-Compose & MongoDB. 
 
 # Node Rest API + JWT in TypeScript
 
