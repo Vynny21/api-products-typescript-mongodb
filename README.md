@@ -47,7 +47,7 @@ git clone https://github.com/Vynny21/api-products-typescript-mongodb.git
 ```
 - Install dependencies
 ```
-cd rest-api-node-jwt-typescript
+cd api-products-typescript-mongodb
 yarn install
 yarn run build
 ```
